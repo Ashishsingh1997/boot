@@ -1,0 +1,370 @@
+
+nav button {
+	background-color: deeppink;
+	color: white;
+	border-style: none;
+	border-radius: 25px;
+	margin-left: 50px;
+	margin-top: 10px;
+	padding: 5px 25px;
+
+	
+}
+
+
+
+
+.row11 {
+	height: 300px;
+	color: deeppink;
+	margin-top: 500px;
+	padding-top: 20px;
+	margin-left: 100px;
+	
+}
+.row11 h1{
+	
+	color: deeppink;
+    margin-left: 200px;
+	
+}
+.row11 b{
+	
+	color: black;
+    margin-left: 200px;
+	
+}
+.row11 p{
+		color: black;
+       margin-left: 200px;
+	
+}
+ #btn1{
+
+	margin-left: 200px;
+	padding: 5px 25px;
+	border-radius: 25px;
+	color: white;
+	background-color: deeppink;
+	border-style: none;
+}
+  .pic1{
+	
+	z-index: 1;
+	height:350px;
+	width: 400px;
+	border-radius: 20% 120% 120% 20%;
+	position: absolute;
+	margin-left: 85px;
+	margin-top: 55px;
+
+}
+
+.border {
+	padding: 10px;
+	border:2px solid deeppink;
+	border-radius: 20% 70% 70% 20%;
+	height: 250px;
+	width: 370px;
+	z-index: 100;
+	position: absolute;
+	
+	margin-left: 95px;
+ }
+
+ .row12 {
+	height: 300px;
+	color: deeppink;
+	margin-top: 100px;
+	padding-top: 20px;
+	margin-left: 100px;
+	
+}
+
+.features{
+	margin-top: 250px;
+	padding-top: 20px;
+	margin-left: 100px;
+}
+.features h6{
+	
+    margin-left: 550px;
+}
+
+.features h1{
+	   color: deeppink;
+    margin-left: 400px;
+}
+
+
+.cont1 i{
+	 margin-left: 200px;
+	 font-size:48px;
+	 color:deeppink;
+	 
+}
+
+.cont1 h4{
+	 margin-left: 150px;
+	 color: black;
+}
+
+.cont1 p{
+	 margin-left: 150px;
+	 color: black;
+}
+
+
+
+.cont2 i{
+	 margin-left: 170px;
+	  font-size:48px;
+	 color:deeppink;
+
+}
+
+.cont2 h4{
+	 margin-left: 100px;
+	 color: black;
+}
+
+.cont2 p{
+	 margin-left: 100px;
+	 color: black;
+}
+
+
+.cont3 i{
+	 margin-left: 150px;
+	  font-size:48px;
+	 color:deeppink;
+}
+
+.cont3 h4{
+	 margin-left: 120px;
+	 color: black;
+}
+
+.cont3 p{
+	 margin-left: 120px;
+	 color: black;
+}
+
+
+
+.row13 {
+	height: 300px;
+	color: deeppink;
+	margin-top: 50px;
+	padding-top: 20px;
+	margin-left: 100px;
+	
+}
+
+.colm h5{
+	color: black;
+}
+
+.colm p{
+	color: black;
+}
+
+.border2{
+	 padding:20px;
+	border:5px solid deeppink;
+	border-radius: 20% 120% 70% 50%;
+	height: 250px;
+	width: 450px;
+	z-index: -100;
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 45px;
+}
+
+.dashboard{
+	margin-top: 300px;
+	height: 700px;
+	text-align: center;
+}
+
+.dashboard h1{
+	color: deeppink;
+}
+.dashboard p{
+	margin-top: 30px;
+}
+
+.reviews{
+	text-align: center;
+}
+.reviews b{
+	color: deeppink;
+}
+
+
+.row14 {
+	height: 500px;
+	color: deeppink;
+	margin-top: 100px;
+	padding-top: 20px;
+	margin-left: 100px;
+	
+}
+
+.ceo1 p{
+	color: black;
+}
+
+.ceo2 p{
+	color: black;
+}
+
+.ceo3 p{
+	color: black;
+}
+
+.ceo1 h4{
+	color: black;
+}
+
+.ceo2 h4{
+	color: black;
+}
+
+.ceo3 h4{
+	color: black;
+}
+
+.ceo1{
+	 box-shadow: 3px 3px 3px 3px #8888;
+	 margin-left: 25px;
+	
+
+}
+
+.ceo2{
+	 box-shadow: 3px 3px 3px 3px #8888;
+	  margin-left: 25px;
+
+}
+
+.ceo3{
+	 box-shadow: 3px 3px 3px 3px #8888;
+	  margin-left: 25px;
+
+}
+
+.signup{
+	margin-top: 40px;
+	background-color: deeppink;
+}
+
+
+
+.signheader{
+    	margin-top: 70px;
+    	height: 200px;
+    
+    	width: 100%;
+    	background-image: linear-gradient(to right, black, deeppink);
+    	overflow: hidden;
+}
+
+.signleft{
+    	float: left;
+    	width: 70%;
+    	margin-top: 65px;
+    	color: white;
+    	padding-left: 30px;
+    	
+    	}
+    .signright{
+    	float: left;
+    	width: 20%;
+    	margin-top: 60px;
+
+    	}
+    .signright button{
+    	background-color: rgb(255,255,255);
+    	
+    	border-radius: 20px;
+    	text-decoration: none;
+    	font-weight: bold;
+    	color: deeppink;
+    	 border-style: none;
+    	 padding: 10px 26px;
+    	 
+    	}
+
+    	.form{
+    		height: 500px;
+
+    	}
+
+    	.colform h3{
+    		margin-left: 200px;
+    		color: white;
+    	}
+
+    	.colform h1{
+    		margin-left: 200px;
+    		color: white;
+    	}
+
+    	.colform p{
+    		margin-left: 200px;
+    		color: white;
+    	}
+
+    	.colform1{
+    		      margin-left: 90px;
+    	}
+
+    	input[type=text] {
+           width: 100%;
+         padding: 22px 40px;
+         margin: 8px 0;
+         box-sizing: border-box;
+        border: 1px solid #ccc;
+        -webkit-transition: 0.5s;
+        transition: 0.5s;
+        outline: none;
+        border-radius: 10px;
+       }
+
+       .btnmybtn{
+           background-color: deeppink;
+           color: white;
+           border-style: none;
+           padding: 10px;
+           width: 100%;
+           border-radius: 25px;
+}
+
+  .footer{
+  	height: 200px;
+  }
+
+  .footer1{
+  	margin-left: 50px;
+  }
+
+  .footer2{
+  	margin-left: 50px;
+  }
+
+  .footer3{
+  	margin-left: 50px;
+
+  }
+
+  .footer2 h1{
+  	color: deeppink;
+  }
+
+  .footer3 a{
+  	color: black;
+  	padding: 10px;
+  }
+
+
